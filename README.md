@@ -1,11 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/himanshu-raaj/himanshu-raaj/main/banner.png" width="100%">
 </p>
-```md
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Himanshu Raj Banner">
-</p>
-
+ 
 <h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
 
 <h3 align="center">MCA Student | Java Developer | DSA Enthusiast | AI & ML Learner</h3>
