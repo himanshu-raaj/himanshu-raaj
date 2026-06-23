@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himanshu-raaj/himanshu-raaj/main/banner.png" width="100%">
+</p>
 ```md
 <p align="center">
   <img src="./banner.png" width="100%" alt="Himanshu Raj Banner">
