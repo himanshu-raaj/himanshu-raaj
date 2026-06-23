@@ -1,115 +1,83 @@
+```md
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Himanshu+Raj;MCA+Student+at+LPU;Java+Developer;DSA+Enthusiast;AI+%26+ML+Learner;Building+Real+World+Projects" />
+  <img src="./banner.png" width="100%" alt="Himanshu Raj Banner">
 </p>
 
-<h1 align="center">🚀 Himanshu Raj</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
 
-<h3 align="center">
-MCA Student | Java Developer | DSA Enthusiast | AI & ML Learner
-</h3>
+<h3 align="center">MCA Student | Java Developer | DSA Enthusiast | AI & ML Learner</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=himanshu-raaj&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/himanshurazz12/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=himanshu-raaj&style=for-the-badge&color=blue"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Developer;DSA+Enthusiast;Machine+Learning+Learner;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 Pursuing Master of Computer Applications (MCA) at Lovely Professional University
+🎓 MCA Student at Lovely Professional University (LPU)
 
 💻 Passionate about Java Development and Software Engineering
 
 📚 Solving Data Structures & Algorithms problems regularly
 
-🤖 Exploring Artificial Intelligence, Machine Learning and Computer Vision
+🤖 Exploring Artificial Intelligence, Machine Learning & Computer Vision
 
 🚀 Building real-world software projects
 
-🎯 Goal: Become a Skilled Software Engineer
+🎯 Goal: Become a Software Engineer
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,mysql,git,github,vscode"/>
+</p>
 
 ---
 
-### Web Technologies
+## 🚀 Featured Projects
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🧾 BillMeUp
+Java-based Billing Management System using Core Java, File Handling and OOP Concepts.
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Tech:** Java • OOP • File Handling
 
 ---
 
-### Tools
+### 🤝 HackMatch
+Full Stack PHP & MySQL platform for Hackathon Discovery, Team Formation and Event Management.
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Tech:** PHP • MySQL • HTML • CSS • JavaScript
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧾 BillMeUp
-
-Java-based billing and management system using File Handling and OOP concepts.
-
-### Tech Used
-Java | OOP | File Handling
-
----
-
-## 🤝 HackMatch
-
-Full Stack PHP & MySQL platform for hackathon discovery, team formation and event management.
-
-### Tech Used
-PHP | MySQL | HTML | CSS | JavaScript
-
----
-
-## 🚨 AI-Based CCTV Accident & Emergency Detection System
-
+### 🚨 AI-Based CCTV Accident & Emergency Detection System
 Real-time surveillance system using YOLO, OpenCV, Flask and MySQL.
 
-### Tech Used
-Python | YOLO | OpenCV | Flask | MySQL
+**Tech:** Python • YOLO • OpenCV • Flask • MySQL
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshu-raaj&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-raaj&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-raaj&theme=tokyonight"/>
@@ -117,7 +85,7 @@ Python | YOLO | OpenCV | Flask | MySQL
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=himanshu-raaj&theme=tokyonight&row=1&column=7"/>
@@ -125,34 +93,30 @@ Python | YOLO | OpenCV | Flask | MySQL
 
 ---
 
-# 📚 Current Learning
+## 📚 Currently Learning
 
-✅ Data Structures & Algorithms
-
-✅ Advanced Java
-
-✅ Machine Learning
-
-✅ System Design Basics
-
-✅ Open Source Contribution
+- Data Structures & Algorithms
+- Advanced Java
+- Machine Learning
+- System Design Basics
+- Open Source Contribution
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-💼 LinkedIn
+📍 Ghazipur, Uttar Pradesh, India
 
+📧 himanshuraajgzp@gmail.com
+
+💼 LinkedIn:
 https://www.linkedin.com/in/himanshurazz12/
 
-📧 Email
-
-himanshuraajgzp@gmail.com
-
 ---
 
-# 💡 Quote
+## 💡 Quote
 
-### "First, solve the problem. Then, write the code."
+> "First, solve the problem. Then, write the code."
 
 ⭐ Thanks for visiting my profile!
+```
