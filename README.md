@@ -39,42 +39,65 @@ engineering and Artificial Intelligence**.
 - 🚀 Building real-world software projects
 
 ---
-
 ## Tech Stack
 
 <div align="center">
 
-### Languages
+<table>
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
+**LANGUAGES**
 
-<br/><br/>
+Java · C++ · Python · JavaScript
 
-### Backend & Frameworks
+</td>
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<td align="center">
 
-<br/><br/>
+**BACKEND**
 
-### Frontend
+Spring Boot · Node.js · Express
 
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+</td>
 
-<br/><br/>
+<td align="center">
 
-### Database
+**FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+React · HTML · CSS
 
-<br/><br/>
+</td>
+</tr>
 
-### Tools
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+**DATABASE**
+
+MySQL · MongoDB
+
+</td>
+
+<td align="center">
+
+**TOOLS**
+
+Git · GitHub · Docker
+
+</td>
+
+<td align="center">
+
+**CORE**
+
+OOP · DSA · REST API
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 ## Featured Projects
 
