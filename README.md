@@ -1,106 +1,175 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himanshu-raaj/himanshu-raaj/main/banner.png" width="100%">
-</p>
- 
- 
+<div align="center">
 
-## 🚀 About Me
+<img src="./banner.svg" width="100%" alt="Himanshu Raj"/>
 
-🎓 MCA Student at Lovely Professional University (LPU)
+<br/>
 
-💻 Passionate about Java Development and Software Engineering
+# Himanshu Raj
 
-📚 Solving Data Structures & Algorithms problems regularly
+### Java Developer · DSA · Spring Boot · AI/ML
 
-🤖 Exploring Artificial Intelligence, Machine Learning & Computer Vision
+Building real-world applications with clean code and continuous learning.
 
-🚀 Building real-world software projects
+<br/>
 
-🎯 Goal: Become a Software Engineer
+<a href="https://github.com/himanshu-raaj">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,mysql,git,github,vscode"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
+
+I'm an **MCA student at Lovely Professional University** with a strong
+interest in **Java development, Data Structures & Algorithms, backend
+engineering and Artificial Intelligence**.
+
+- 🎓 MCA Student at Lovely Professional University
+- ☕ Focused on Java and Object-Oriented Programming
+- 🧠 Practicing Data Structures & Algorithms
+- ⚙️ Learning Spring Boot and backend development
+- 🗄️ Working with MySQL and MongoDB
+- 🤖 Exploring AI, Machine Learning and Computer Vision
+- 🚀 Building real-world software projects
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
+
+<br/><br/>
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+
+<br/><br/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+<br/><br/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI CCTV Accident Detection
+
+AI-based CCTV system for detecting accidents and emergency situations.
+
+**Tech Stack**
+
+`Python` `Flask` `YOLO` `OpenCV` `MySQL` `Socket.IO`
+
+**Focus**
+
+Computer Vision · AI · Real-time Detection
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧑‍💻 AI Developer Assistant
+
+Full-stack developer assistant built using Java Spring Boot and React.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React` `MySQL` `JWT`
+
+**Focus**
+
+Backend Development · REST API · AI Integration
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🧾 BillMeUp
-Java-based Billing Management System using Core Java, File Handling and OOP Concepts.
 
-**Tech:** Java • OOP • File Handling
+Java-based billing web application developed for managing billing
+operations using file handling.
 
----
+**Tech Stack**
 
-### 🤝 HackMatch
-Full Stack PHP & MySQL platform for Hackathon Discovery, Team Formation and Event Management.
+`Java` `Servlet` `JSP` `Tomcat`
 
-**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+**Focus**
 
----
+Java · File Handling · Web Development
 
-### 🚨 AI-Based CCTV Accident & Emergency Detection System
-Real-time surveillance system using YOLO, OpenCV, Flask and MySQL.
+</td>
 
-**Tech:** Python • YOLO • OpenCV • Flask • MySQL
+<td width="50%" valign="top">
 
----
+### 🧠 LeetCode Journey
 
-## 📊 GitHub Statistics
+My Data Structures & Algorithms practice repository with solutions
+primarily implemented in Java.
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshu-raaj&show_icons=true&theme=tokyonight"/>
+**Topics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-raaj&layout=compact&theme=tokyonight"/>
-</p>
+`Arrays` `Strings` `Hashing` `Linked List` `Trees` `Graphs`
 
----
+<a href="https://github.com/himanshu-raaj/Leet-Code-journey">
+View Repository →
+</a>
 
-## 🔥 GitHub Streak
+</td>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-raaj&theme=tokyonight"/>
-</p>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
+## DSA Journey
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himanshu-raaj&theme=tokyonight&row=1&column=7"/>
-</p>
+I regularly practice Data Structures & Algorithms to improve my
+problem-solving and coding skills.
 
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Advanced Java
-- Machine Learning
-- System Design Basics
-- Open Source Contribution
-
----
-
-## 🌐 Connect With Me
-
-📍 Ghazipur, Uttar Pradesh, India
-
-📧 himanshuraajgzp@gmail.com
-
-💼 LinkedIn:
-https://www.linkedin.com/in/himanshurazz12/
-
----
-
-## 💡 Quote
-
-> "First, solve the problem. Then, write the code."
-
-⭐ Thanks for visiting my profile!
-```
+```text
+Arrays
+Strings
+Hashing
+Linked List
+Stack & Queue
+Binary Search
+Recursion
+Trees
+Heap
+Graphs
+Dynamic Programming
