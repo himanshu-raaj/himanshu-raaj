@@ -161,7 +161,7 @@ View Repository →
 I regularly practice Data Structures & Algorithms to improve my
 problem-solving and coding skills.
 
-```text
+---text
 Arrays
 Strings
 Hashing
@@ -173,3 +173,271 @@ Trees
 Heap
 Graphs
 Dynamic Programming
+---
+
+## About Me
+
+<div align="center">
+
+I'm an MCA student at **Lovely Professional University** focused on
+**Java development, Data Structures & Algorithms, backend engineering,
+and Artificial Intelligence.**
+
+<br/>
+
+Building practical software, solving problems, and continuously improving.
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### Java
+
+Core Java  
+OOP  
+Collections
+
+</td>
+
+<td align="center" width="25%">
+
+### DSA
+
+Algorithms  
+Problem Solving  
+LeetCode
+
+</td>
+
+<td align="center" width="25%">
+
+### Backend
+
+Spring Boot  
+REST API  
+JWT
+
+</td>
+
+<td align="center" width="25%">
+
+### AI / ML
+
+Computer Vision  
+Machine Learning  
+OpenCV
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,js,python,cpp,git,github,docker,vscode"
+width="700"/>
+
+</div>
+
+---
+
+## Selected Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### AI CCTV Accident Detection
+
+AI-based CCTV accident and emergency detection system.
+
+**Stack**
+
+`Python` · `YOLO` · `OpenCV`  
+`Flask` · `MySQL` · `Socket.IO`
+
+<br/>
+
+**Focus**
+
+Computer Vision · Real-time Detection
+
+<br/><br/>
+
+<a href="https://github.com/himanshu-raaj">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Developer Assistant
+
+Full-stack developer assistant built with Java and Spring Boot.
+
+**Stack**
+
+`Java` · `Spring Boot` · `React`  
+`MySQL` · `JWT` · `REST API`
+
+<br/>
+
+**Focus**
+
+Backend · Full Stack · AI Integration
+
+<br/><br/>
+
+<a href="https://github.com/himanshu-raaj">
+View Project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### BillMeUp
+
+Java billing web application using Servlet, JSP and file handling.
+
+**Stack**
+
+`Java` · `Servlet` · `JSP` · `Tomcat`
+
+<br/>
+
+**Focus**
+
+Java · Web Development · File Handling
+
+<br/><br/>
+
+<a href="https://github.com/himanshu-raaj">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### LeetCode Journey
+
+My ongoing Data Structures & Algorithms practice in Java.
+
+**Topics**
+
+`Arrays` · `Strings` · `Hashing`  
+`Linked List` · `Trees` · `Graphs`
+
+<br/>
+
+<a href="https://github.com/himanshu-raaj/Leet-Code-journey">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## DSA
+
+<div align="center">
+
+`Arrays` · `Strings` · `Hashing` · `Linked List`
+
+`Stack` · `Queue` · `Binary Search` · `Recursion`
+
+`Trees` · `Heap` · `Graphs` · `Dynamic Programming`
+
+<br/>
+
+**Primary Language — Java**
+
+</div>
+
+---
+
+## Currently Building
+
+<div align="center">
+
+| Java & DSA | Backend | AI / ML |
+|:---:|:---:|:---:|
+| Problem Solving | Spring Boot | Computer Vision |
+| Algorithms | REST APIs | Machine Learning |
+| LeetCode | MySQL | OpenCV |
+
+</div>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=himanshu-raaj&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9aa7b5&icon_color=8db8e8"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-raaj&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9aa7b5"
+/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-raaj&bg_color=00000000&color=9aa7b5&line=8db8e8&point=ffffff&area=true&hide_border=true"
+width="95%"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Build · Learn · Improve · Repeat
+
+<br/>
+
+<a href="https://github.com/himanshu-raaj">
+GitHub
+</a>
+
+&nbsp;&nbsp; · &nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/">
+LinkedIn
+</a>
+
+<br/><br/>
+
+<sub>Java · DSA · Backend · AI/ML</sub>
+
+</div>
