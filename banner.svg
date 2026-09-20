@@ -1,1 +1,243 @@
 
+<svg width="1200" height="420" viewBox="0 0 1200 420"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080b10"/>
+      <stop offset="55%" stop-color="#101720"/>
+      <stop offset="100%" stop-color="#0a0e14"/>
+    </linearGradient>
+
+    <!-- Liquid blue -->
+    <linearGradient id="liquid" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dcecff" stop-opacity=".75"/>
+      <stop offset="35%" stop-color="#8db8e8" stop-opacity=".25"/>
+      <stop offset="70%" stop-color="#4d79a8" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity=".05"/>
+    </linearGradient>
+
+    <!-- Glass -->
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".16"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity=".06"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity=".02"/>
+    </linearGradient>
+
+    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#dcecff"/>
+      <stop offset="100%" stop-color="#9fc8f5"/>
+    </linearGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="15" stdDeviation="20"
+                    flood-color="#000000" flood-opacity=".5"/>
+    </filter>
+
+    <clipPath id="round">
+      <rect width="1200" height="420" rx="28"/>
+    </clipPath>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+
+  <!-- Soft liquid blobs -->
+  <ellipse cx="160" cy="30" rx="270" ry="110"
+           fill="#8db8e8" opacity=".14" filter="url(#blur)"/>
+
+  <ellipse cx="1070" cy="370" rx="300" ry="130"
+           fill="#6f9bc7" opacity=".16" filter="url(#blur)"/>
+
+  <!-- Liquid glass wave -->
+  <path d="
+    M0 65
+    C170 145 270 5 430 65
+    C590 125 670 155 825 70
+    C975 -10 1080 80 1200 35
+    L1200 0
+    L0 0 Z"
+    fill="url(#liquid)"/>
+
+  <path d="
+    M0 355
+    C180 270 280 405 450 350
+    C625 295 690 260 850 350
+    C1000 430 1080 330 1200 365
+    L1200 420
+    L0 420 Z"
+    fill="url(#liquid)"
+    opacity=".55"/>
+
+  <!-- Main glass panel -->
+  <rect x="32" y="30" width="1136" height="360"
+        rx="25"
+        fill="url(#glass)"
+        stroke="#ffffff"
+        stroke-opacity=".16"/>
+
+  <!-- Text -->
+  <text x="85" y="105"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        fill="#9fc8f5">
+    HELLO, I'M
+  </text>
+
+  <text x="82" y="165"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="58"
+        font-weight="700"
+        fill="url(#text)">
+    Himanshu Raj
+  </text>
+
+  <text x="86" y="210"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="21"
+        fill="#d5dee9">
+    MCA Student  •  Java Developer  •  DSA  •  Spring Boot  •  AI/ML
+  </text>
+
+  <text x="86" y="260"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        fill="#9aa9b8">
+    Building real-world applications with clean code and continuous learning.
+  </text>
+
+  <!-- Glass button -->
+  <rect x="84" y="292" width="190" height="48"
+        rx="24"
+        fill="#ffffff"
+        fill-opacity=".94"/>
+
+  <text x="179" y="323"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="16"
+        font-weight="600"
+        fill="#111820">
+    VIEW MY WORK
+  </text>
+
+  <!-- Laptop shadow -->
+  <ellipse cx="925" cy="337" rx="190" ry="25"
+           fill="#000000" opacity=".5"/>
+
+  <!-- HP Victus Laptop -->
+  <g filter="url(#shadow)">
+
+    <!-- Screen -->
+    <path d="
+      M750 135
+      L1065 105
+      Q1080 104 1086 118
+      L1120 285
+      L780 300
+      Z"
+      fill="#171c23"
+      stroke="#8b9aaa"
+      stroke-opacity=".5"
+      stroke-width="2"/>
+
+    <!-- Screen reflection -->
+    <path d="
+      M765 145
+      L1055 120
+      L1080 170
+      L790 200 Z"
+      fill="#ffffff"
+      opacity=".035"/>
+
+    <!-- Victus logo -->
+    <text x="935" y="205"
+          text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="38"
+          font-weight="700"
+          fill="#dce5ee">
+      V
+    </text>
+
+    <text x="935" y="230"
+          text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="11"
+          letter-spacing="4"
+          fill="#9daab8">
+      VICTUS
+    </text>
+
+    <!-- Base -->
+    <path d="
+      M780 300
+      L1120 285
+      L1160 330
+      Q1165 338 1148 341
+      L680 341
+      Q666 339 676 332
+      Z"
+      fill="#20262e"
+      stroke="#8b9aaa"
+      stroke-opacity=".45"/>
+
+    <!-- Keyboard -->
+    <path d="
+      M815 305
+      L1085 294
+      L1110 323
+      L795 328 Z"
+      fill="#0e1319"/>
+
+    <!-- Touchpad -->
+    <path d="
+      M915 306
+      L1015 303
+      L1028 321
+      L900 323 Z"
+      fill="#242b33"/>
+
+  </g>
+
+  <!-- Small quote -->
+  <text x="1080" y="80"
+        text-anchor="end"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15"
+        fill="#aabbd0">
+    BUILD
+  </text>
+
+  <text x="1080" y="101"
+        text-anchor="end"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15"
+        fill="#aabbd0">
+    LEARN
+  </text>
+
+  <text x="1080" y="122"
+        text-anchor="end"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15"
+        fill="#aabbd0">
+    IMPROVE
+  </text>
+
+  <!-- Border -->
+  <rect x="1" y="1" width="1198" height="418"
+        rx="28"
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity=".13"/>
+
+</svg>
